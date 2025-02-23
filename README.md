@@ -27,8 +27,8 @@ We focused on testing three major functionalities of the Magento website:
 ### Prerequisites
 - Java 11+
 - Maven
-- Selenium WebDriver (ChromeDriver or FireFox)
-- TestNG (for test framework)
+- Selenium
+- TestNG 
 
 ###  Install Dependencies
 - Selenium 4.28.1
